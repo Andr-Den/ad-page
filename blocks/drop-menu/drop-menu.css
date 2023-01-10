@@ -12,6 +12,7 @@
 }
 
 .drop-menu__nav-bar {
+  padding: 0;
   text-align: center;
   list-style: none;
   display: flex;
