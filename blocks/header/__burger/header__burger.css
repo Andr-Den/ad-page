@@ -1,0 +1,14 @@
+.header__burger {
+  display: none;
+  width: 34px;
+}
+
+.header__burger:hover {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1260px){
+  .header__burger_open {
+    display: block;
+  }
+}

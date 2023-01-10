@@ -1,0 +1,20 @@
+.drop-menu {
+  width: 50%;
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+  z-index: 99;
+  top: 70px;
+}
+
+.drop-menu_open {
+  display: block;
+}
+
+.drop-menu__nav-bar {
+  text-align: center;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
