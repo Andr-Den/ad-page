@@ -1,12 +1,15 @@
-.header__button {
+.drop-menu__button {
+  display: none;
   padding: 10px 16px;
   background-color: #0088cc;
   border: none;
   border-radius: 6px;
+  width: 25%;
+  margin: 0 auto 0;
 }
 
 @media screen and (max-width: 1260px){
-  .header__button  {
-    display: none;
+  .drop-menu__button {
+    display: block;
   }
 }
