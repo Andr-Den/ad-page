@@ -9,3 +9,10 @@
 @import url(./blocks/header/__burger/header__burger.css);
 @import url(./blocks/drop-menu/drop-menu.css);
 @import url(./blocks/drop-menu/__button/drop-menu__button.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__buttons/footer__buttons.css);
+@import url(./blocks/footer/__logo/footer__logo.css);
+@import url(./blocks/footer/__button/footer__button.css);
+@import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__title/footer__title.css);
