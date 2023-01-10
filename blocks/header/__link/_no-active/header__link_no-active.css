@@ -1,0 +1,11 @@
+.header__link_no-active {
+  font-weight: bold;
+}
+
+.header__link_no-active:hover {
+  cursor: default;
+}
+
+.header__link_no-active:after {
+	display: none;
+}

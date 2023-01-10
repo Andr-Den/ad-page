@@ -1,0 +1,8 @@
+.header__link_button {
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.header__link_button:after {
+	display: none;
+}
