@@ -21,6 +21,7 @@
 @import url(./blocks/additions/additions.css);
 @import url(./blocks/additions/__info/additions__info.css);
 @import url(./blocks/additions/__card/additions__card.css);
+@import url(./blocks/additions/__button/additions__button.css);
 
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__container/footer__container.css);
