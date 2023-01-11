@@ -1,0 +1,15 @@
+.additions__info {
+  display: grid;
+  grid-template-columns: 320px 320px 320px;
+  max-width: 1000px;
+  gap: 20px;
+  margin: 20px auto 0;
+  text-align: center;
+}
+
+@media screen and (max-width: 1060px){
+  .additions__info {
+    grid-template-columns: 320px;
+    justify-content: center;
+  }
+}

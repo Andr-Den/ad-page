@@ -18,6 +18,10 @@
 @import url(./blocks/heading/__title/heading__title.css);
 @import url(./blocks/heading/__description/heading__description.css);
 
+@import url(./blocks/additions/additions.css);
+@import url(./blocks/additions/__info/additions__info.css);
+@import url(./blocks/additions/__card/additions__card.css);
+
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__container/footer__container.css);
 @import url(./blocks/footer/__buttons/footer__buttons.css);
