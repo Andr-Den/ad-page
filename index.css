@@ -10,7 +10,12 @@
 @import url(./blocks/drop-menu/drop-menu.css);
 @import url(./blocks/drop-menu/__button/drop-menu__button.css);
 
+@import url(./blocks/hero/hero.css);
+@import url(./blocks/hero/__title/hero__title.css);
+@import url(./blocks/hero/__description/hero__description.css);
+
 @import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__container/footer__container.css);
 @import url(./blocks/footer/__buttons/footer__buttons.css);
 @import url(./blocks/footer/__logo/footer__logo.css);
 @import url(./blocks/footer/__button/footer__button.css);
