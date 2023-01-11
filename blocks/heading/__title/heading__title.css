@@ -2,3 +2,9 @@
   margin: 0;
   font-size: 34px;
 }
+
+@media screen and (max-width: 900px){
+  .heading__title {
+    font-size: 20px;
+  }
+}
