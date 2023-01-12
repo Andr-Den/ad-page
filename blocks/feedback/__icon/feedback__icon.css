@@ -1,0 +1,7 @@
+.feedback__icon {
+  width: 32px;
+}
+
+.feedback__icon:hover {
+  cursor: pointer;
+}
