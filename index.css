@@ -23,6 +23,10 @@
 @import url(./blocks/additions/__card/additions__card.css);
 @import url(./blocks/additions/__button/additions__button.css);
 
+@import url(./blocks/comments/comments.css);
+@import url(./blocks/comments/__carousel/comments__carousel.css);
+@import url(./blocks/comments/__card/comments__card.css);
+
 @import url(./blocks/companies/companies.css);
 @import url(./blocks/companies/__logos/companies__logos.css);
 @import url(./blocks/companies/__button/companies__button.css);
