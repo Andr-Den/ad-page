@@ -13,3 +13,27 @@ closeDropMenuButton.addEventListener('click', () => {
   closeDropMenuButton.classList.remove('header__burger_open')
   openDropMenuButton.classList.add('header__burger_open')
 }); 
+
+let forwardButton = document.getElementById("button-forward");
+let backButton = document.getElementById("button-back");
+let productImage = document.getElementById("company-image");
+
+let val = 1
+
+forwardButton.onclick = function() {
+  if (val === 8) {
+    val = 1
+  } else {
+    val++
+  }
+  productImage.style.backgroundImage = `url(./images/${val}.png)`
+ }
+
+backButton.onclick = function() {
+  if (val === 1) {
+    val = 8
+  } else {
+    val--
+  }
+  productImage.style.backgroundImage = `url(./images/${val}.png)`
+}

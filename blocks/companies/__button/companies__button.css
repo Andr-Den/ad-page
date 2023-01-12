@@ -1,0 +1,12 @@
+.companies__button {
+  border: none;
+  background-color: #ffffff;
+}
+
+.companies__button:hover {
+  cursor: pointer;
+}
+
+.companies__button_no-active:hover {
+  cursor: default;
+}
