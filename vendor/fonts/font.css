@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Roboto";
+  font-style:  normal;
+  font-weight: normal;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./Roboto.woff2) format("woff2"),
+       url(./Roboto.woff) format("woff"),
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style:  normal;
+  font-weight: bold;
+  font-display: swap;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  src: url(./Robotobold.woff2) format("woff2"),
+       url(./Robotobold.woff) format("woff"),
+}
