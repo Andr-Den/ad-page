@@ -1,13 +1,4 @@
 .companies {
   max-width: 1450px;
-  margin: 0 auto 0;
-}
-
-.companies__image {
-  width: 400px;
-  height: 200px;
-  background-image: url(../../images/1.png);
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
+  margin: 0 auto 20px;
 }

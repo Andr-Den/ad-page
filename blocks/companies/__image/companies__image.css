@@ -1,0 +1,8 @@
+.companies__image {
+  width: 400px;
+  height: 200px;
+  background-image: url(../../../images/1.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}

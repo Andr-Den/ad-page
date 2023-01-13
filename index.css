@@ -39,6 +39,7 @@
 
 @import url(./blocks/companies/companies.css);
 @import url(./blocks/companies/__logos/companies__logos.css);
+@import url(./blocks/companies/__image/companies__image.css);
 @import url(./blocks/companies/__button/companies__button.css);
 
 @import url(./blocks/feedback/__title/feedback__title.css);
