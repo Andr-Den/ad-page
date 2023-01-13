@@ -1,0 +1,11 @@
+.drop-menu__nav-bar {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 20px;
+  text-align: center;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border-bottom: 2px solid rgba(252, 181, 13, 1);
+}
