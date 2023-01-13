@@ -18,6 +18,13 @@
 @import url(./blocks/heading/__title/heading__title.css);
 @import url(./blocks/heading/__description/heading__description.css);
 
+@import url(./blocks/introduction/introduction.css);
+@import url(./blocks/introduction/__text/introduction__text.css);
+
+@import url(./blocks/tariffs/tariffs.css);
+@import url(./blocks/tariffs/__buy-card/tariffs__buy-card.css);
+@import url(./blocks/tariffs/__button/tariffs__button.css);
+
 @import url(./blocks/additions/additions.css);
 @import url(./blocks/additions/__info/additions__info.css);
 @import url(./blocks/additions/__card/additions__card.css);

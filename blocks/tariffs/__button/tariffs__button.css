@@ -1,0 +1,12 @@
+.tariffs__button {
+  background-color: rgba(252, 181, 13, 1);
+  padding: 10px 0;
+  width: 200px;
+  border: none;
+  border-radius: 6px;
+  align-self: center;
+}
+
+.tariffs__button_blue {
+  background-color: #0088cc;
+}
