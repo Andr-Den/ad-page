@@ -1,0 +1,11 @@
+.comments__name {
+  text-align: right;
+  margin: 0;
+}
+
+@media screen and (max-width: 800px){
+  .comments__name {
+    font-size: 12px;
+    text-align: center;
+  }
+}
