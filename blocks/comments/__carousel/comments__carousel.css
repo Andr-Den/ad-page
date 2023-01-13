@@ -4,3 +4,9 @@
   justify-content: center;
   gap: 60px;
 }
+
+@media screen and (max-width: 800px){
+  .comments__carousel {
+    gap: 20px;
+  }
+}
