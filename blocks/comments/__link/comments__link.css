@@ -1,0 +1,10 @@
+.comments__link {
+  text-decoration: none;
+  font-size: 24px;
+  color: rgba(252, 181, 13, 1);
+  text-align: center;
+}
+
+.comments__link:hover {
+  text-decoration: underline;
+}

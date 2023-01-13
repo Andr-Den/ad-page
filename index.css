@@ -36,6 +36,7 @@
 @import url(./blocks/comments/__card/comments__card.css);
 @import url(./blocks/comments/__title/comments__title.css);
 @import url(./blocks/comments/__name/comments__name.css);
+@import url(./blocks/comments/__link/comments__link.css);
 
 @import url(./blocks/companies/companies.css);
 @import url(./blocks/companies/__logos/companies__logos.css);
