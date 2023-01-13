@@ -5,6 +5,14 @@
   border-radius: 6px;
 }
 
+.header__button:hover {
+  cursor: pointer;
+}
+
+.header__button:active {
+  background-color: #015a86;
+}
+
 @media screen and (max-width: 1260px){
   .header__button  {
     display: none;

@@ -10,3 +10,15 @@
 .tariffs__button_blue {
   background-color: #0088cc;
 }
+
+.tariffs__button:hover {
+  cursor: pointer;
+}
+
+.tariffs__button:active {
+  background-color: rgb(133, 93, 2);
+}
+
+.tariffs__button_blue:active {
+  background-color: #015a86;
+}

@@ -4,3 +4,11 @@
   border: none;
   border-radius: 6px;
 }
+
+.additions__button:hover {
+  cursor: pointer;
+}
+
+.additions__button:active {
+  background-color: rgb(133, 93, 2);
+}

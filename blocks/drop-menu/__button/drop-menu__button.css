@@ -7,6 +7,14 @@
   margin: 0 auto 0;
 }
 
+.drop-menu__button:hover {
+  cursor: pointer;
+}
+
+.drop-menu__button:active {
+  background-color: #015a86;
+}
+
 @media screen and (max-width: 1260px){
   .drop-menu__button {
     display: block;
